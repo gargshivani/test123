@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plugin-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/repo/com/appoxee/plugin/1.0/plugin-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
